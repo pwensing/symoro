@@ -11,7 +11,7 @@ For details on the algorithms used, please see [the paper][lk:hal]
 published in the AIM 2014 conference.
 
 
-Requirements
+Original Developer Requirements
 ------------
 + python (>= 2.7, &nbsp;&nbsp; 3.* is not supported)
 + sympy (>= 0.7.6)
@@ -19,7 +19,15 @@ Requirements
 + wxPython (>= 2.8.12)
 + PyOpenGL (>= 3.0.1b2)
 
+1-22-2024 Commit Tested With
+------------
++ python (2.7.18)
++ sympy (1.5.1)
++ numpy (1.16.6)
++ wxPython (4.0.4)
++ PyOpenGL (3.1.1a1)
 
+  
 Getting Started
 ---------------
 + For setting up SYMORO, see [Setup][lk:setup].
